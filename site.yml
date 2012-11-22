@@ -1,11 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Jiang Ji
+tagline: how many roads must a man walk down...
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Jiang Ji
+  email : jiang.ji@hotmail.com
+  github : demote
+  twitter : demotium
+  feedburner : NONE
 
 navigation :
   - archive.html
